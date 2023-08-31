@@ -1,0 +1,63 @@
+/*Navbar Styles*/
+.navbar {
+  background-color: #00324d;
+  color: #ffff;
+  padding: 10px;
+}
+
+.navul{
+  display: flex;
+  justify-content: space-between;
+}
+
+.navli {
+  margin: 0 10px;
+}
+
+/*Form Styles*/
+.Form {
+  width: 500px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border: 1px solid #777777;
+  padding: 20px;
+}
+
+.Form-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.Form-input {
+  padding: 10px;
+  border: 1px solid #747474;
+  color: #000;
+  background-color: #fff;
+}
+
+.Form-Button {
+  background-color: #000;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+/*Description Styles*/
+.H1D {
+  font-size: 34px;
+  font-family: 'WorkSans' , sans-serif;
+  text-align: center;
+}
+
+.PD {
+  
+  font-size: 24px;
+  font-family: 'WorkSans' , sans-serif;
+  text-align: center;
+}
